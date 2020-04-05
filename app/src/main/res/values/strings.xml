@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">activity</string>
+    <string name="hell">Hello World!</string>
+    <string name="one">one activity</string>
+    <string name="start_text">Введите ваш текст</string>
+    <string name="second_activity">second activity</string>
+    <string name="email">Введите Email</string>
+    <string name="date">Укажите дату</string>
+    <string name="time">Укажите  время</string>
+    <string name="number">Введите номер</string>
+    <string name="save_date">Save Date</string>
+</resources>
